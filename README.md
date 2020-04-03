@@ -1,25 +1,30 @@
 # Bay Calendars
 
-### Description
-Upon loading the website, the user will be prompted to either create or login with an existing account. Once logged in, the user will be redirected to their profile page which will display a calendar with any events they have scheduled with details, along with upcoming events populated below the calendar where you can choose to either modify, delete, or invite another user to an event. The app will also allow users to go in and create a new event to add to their calendar by filling out a form on a seperate page.
+### Overview
+This is a full-stack application that allows users to schedule events on their calendars and invite other users to those events. This app comes with all of the functionality you could imagine. From user authentication to sending out invites to your friends to accept via email, this is a great tool for anyone trying to stay organized and wants a user-friendly experience.
 
-### Technologies Used
-* HTML/CSS
+### Technology Used
+* HTML5
+* Materialize
 * Handlebars
 * jQuery
 * Node
-* Sequelize
 * Express
+* MySQL
 * Passport
 * Nodemailer
 * Moment
 
-### Team
-* Emily Coraccio
-* Michael Nos
-* Nik Arbodela
-* Keith Naber
-* Kenneth Poole
+### Developers
+* [Emily Coraccio](https://github.com/emcoraccio)
+* [Michael Nos](https://github.com/mmnos)
+* [Nik Arbodela](https://github.com/AmericanNik)
+* [Keith Naber](https://github.com/kpoole133)
+* [Kenneth Poole](https://github.com/knaber4124)
 
-### Deployed
-Here's the link to our site : https://secure-taiga-47401.herokuapp.com/
+### Deployed Here : https://secure-taiga-47401.herokuapp.com/
+
+### Want to give it a try? Sign in with the test account below.
+Email : test@email.com
+
+Password : test
