@@ -1,7 +1,12 @@
 # Bay Calendars
 
 ### Overview
+
+Timeframe : < 2 weeks
+
 This is a full-stack application that allows users to schedule events on their calendars and invite other users to those events. This app comes with all of the functionality you could imagine. From user authentication to sending out invites to your friends to accept via email, this is a great tool for anyone trying to stay organized and wants a user-friendly experience.
+
+![](appDemo.gif)
 
 ### Technology Used
 * HTML5
